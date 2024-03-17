@@ -1,0 +1,11 @@
+copy_id,book_id,copy_number,copy_condition,shelf_location
+1,1,5,Good,A1
+2,2,2,Fair,B3
+3,3,4,Average,B3
+4,4,6,Good,A1
+5,5,8,Good,A1
+6,6,7,Fair,C1
+7,7,1,Poor,C1
+8,8,10,Average,D1
+9,9,9,Fair,A1
+10,10,10,Good,D1
